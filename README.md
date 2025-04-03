@@ -2,21 +2,21 @@
 
 Your Ecological Ally
 
+Eco-AI.ly is a project designed to provide insights into ecological data using advanced machine learning models and data analysis techniques.
+
+---
+
 ## Project Structure
 
-This repository contains the following directories:
+This repository is organized into the following directories:
 
 ### Branding
-This folder contains visual assets such as screenshots and branding materials.
+Contains visual assets such as screenshots and branding materials to represent the project.
 
 ### LSTM
-This folder contains the implementation of Long Short-Term Memory (LSTM) models used in the project.
+Includes the implementation of Long Short-Term Memory (LSTM) models used for time-series data analysis and predictions.
 
 ### Power_Breakdown
-This folder contains scripts and data related to power consumption analysis and breakdown.
+Houses scripts and datasets related to power consumption analysis, enabling detailed breakdowns and insights.
 
-## Getting Started
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-repo/Eco-AI.ly.git
+---
